@@ -1,3 +1,3 @@
 <?php
-include_once '/OpenServer/domains/bpms/temp';
+include_once 'temp/index.html';
 ?>
