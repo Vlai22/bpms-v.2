@@ -1,3 +1,3 @@
 <?php
-include_once 'temp/index.html';
+include_once ' https://vlai22.github.io/bpms-v.2/temp/index.html';
 ?>
